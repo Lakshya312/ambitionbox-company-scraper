@@ -24,7 +24,7 @@ This project scrapes company data from AmbitionBox using Python and BeautifulSou
 - time
 
 ## Output
-Generates a CSV dataset:
+Generates a CSV dataset: ambitionbox_companies_2026_dataset.csv
 
 ## Usage
 
